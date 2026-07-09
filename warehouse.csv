@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-Warehouse,Demand
+use,Demand
 W1,80
 W2,120
-=======
-Warehouse,Demand
-W1,80
-W2,120
->>>>>>> 708d24634676b6358f703d9076f4ba6f4d61793f
 W3,170

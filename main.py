@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import pandas as pd
 from scipy.optimize import linprog
 
@@ -84,7 +84,6 @@ plt.bar(factories, used_capacity)
 plt.title("Factory Utilization")
 plt.xlabel("Factories")
 plt.ylabel("Units Shipped")
-=======
 import pandas as pd
 from scipy.optimize import linprog
 
@@ -170,5 +169,4 @@ plt.bar(factories, used_capacity)
 plt.title("Factory Utilization")
 plt.xlabel("Factories")
 plt.ylabel("Units Shipped")
->>>>>>> 708d24634676b6358f703d9076f4ba6f4d61793f
 plt.show()
